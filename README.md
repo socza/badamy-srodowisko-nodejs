@@ -1,5 +1,4 @@
 # We're investigating the Node.js environment.
-# --------------------------------------------
 
 # Run the program with the command - "node program.js".
 
